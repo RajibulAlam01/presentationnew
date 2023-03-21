@@ -1,0 +1,72 @@
+/*common start*/
+body{
+	font-family: 'PT Serif', serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #656b6f;
+}
+
+.btn_common{
+	text-align: center;
+	width: 10px;
+	background-color: #2e71f2;
+	font-family: 'Montserrat', sans-serif;
+	font-family: 700;
+	color: white;
+	text-transform: uppercase;
+	border-radius: 0px;
+	text-transform: uppercase;
+}
+/*common end*/
+
+/*header start*/
+.c_nav{}
+.n_menu{
+	font-size: 14px;
+	font-family: 700 !important;
+	color: #ffffff !important;
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+}
+.nav-link{
+	padding-right: 25px !important;
+	color: white;
+}
+/*header end*/
+
+/*slider start*/
+.slider {
+	background-image: url("../images/banner.png");
+	background-size: cover;
+  	background-repeat: no-repeat;
+  	background-position: center;
+  	height: 800px;
+}
+.main-carosul{
+	height: 900px;
+	width: 100%;
+}
+.single_s{
+	text-align: center;
+}
+.single_s h2{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	font-size: 52px;
+	color: white;
+	
+}
+.single_s p{
+	font-family: 'PT Serif', serif;
+	font-weight: 400;
+	font-size: 20px;
+	color: #ffffff;
+
+}
+/*slider end*/
+
+/*form start*/
+.form{
+	background-color: #3b3d40;
+}
+/*form end*/
